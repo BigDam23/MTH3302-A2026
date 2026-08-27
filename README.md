@@ -1,6 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31515344/README.md)
-# MTH3302-A2026
-[Uploading README.md…]()
+
 # MTH3302 Méthodes probabilistes et statistiques pour l'intelligence artificielle
 
 Cours offert à Polytechnique Montréal aux trimestres d'automne d'hiver.
